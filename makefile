@@ -1,5 +1,5 @@
 CC=gcc
-OBJECTS_MAIN=main.o my_mat.o
+OBJECTS_MAIN=main.o 
 FLAGS= -Wall -g
 EXE=stringProg
 
